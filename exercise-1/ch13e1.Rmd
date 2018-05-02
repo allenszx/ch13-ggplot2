@@ -1,0 +1,20 @@
+---
+title: "ch13e1"
+author: "AllenShi"
+date: "5/1/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+source("exercise.R")
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r }
+plot_1
+plot_2
+plot_3
+plot_4
+plot_5
+```
